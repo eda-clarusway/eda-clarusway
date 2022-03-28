@@ -51,4 +51,8 @@ https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png
 (10 kB)
 https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png
 
-
+## 📈 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=isim&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isim&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
