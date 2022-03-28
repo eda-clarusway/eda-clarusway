@@ -10,7 +10,9 @@ https://www.linkedin.com/in/eda-a%C3%A7%C4%B1kg%C3%B6z-408a4622b/
 ### What I'm using ? 
 
 -Python, SQL, HTML5,CSS5,Git,Github
+
 -- :speech_balloon: Ask  me about anything that you want to learn
+
 -  You can reach me via Linkedin:  <a href="htt/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 ## :rocket: Skills
@@ -53,6 +55,6 @@ https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=isim&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isim&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=eda-clarusway&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eda-clarusway&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eda-clarusway&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
