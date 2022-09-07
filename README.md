@@ -21,7 +21,7 @@ I prefer Amazon Web Services & DevOps Tools.
 
 - 💬 Ask  me about anything that you want to learn via LinkedIn 
 
-<!-- -  You can reach me via Linkedin:  <a href="https://sfrancis33.github.io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a> -->
+<!-- -  You can reach me via Linkedin:  <a href="https://eda-clarusway.github.io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a> -->
 
 
 ## 🚴 Skills
@@ -50,4 +50,4 @@ I prefer Amazon Web Services & DevOps Tools.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Eda Acıkgöz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eda Acıkgöz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrancis33&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eda Acıkgöz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
