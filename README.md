@@ -2,13 +2,13 @@
 <a href="https://github.com/eda-clarusway/eda-clarusway/network/members"><img src="https://img.shields.io/github/forks/eda-clarusway/eda-clarusway?color=00C4CE" alt="Forks Badge" height="20"/></a>  
 <a href="https://github.com/eda-clarusway/eda-clarusway/pulls"><img src="https://img.shields.io/github/issues-pr/eda-clarusway/eda-clarusway?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
 <a href="https://github.com/eda-clarusway/eda-clarusway/issues"><img src="https://img.shields.io/github/issues/sfrancis33/eda-clarusway?color=00C4CE" alt="Issues Badge" height="20"/></a>
-<a href="https://github.com/sfrancis33/eda-clarusway/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/eda-clarusway/eda-clarusway?color=00C4CE"></a>   
+<a href="https://github.com/eda-clarusway/eda-clarusway/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/eda-clarusway/eda-clarusway?color=00C4CE"></a>   
 </p>
 
 ## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Eda Açıkgöz is here. (Loading...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eda-açıkgöz/) 
-<a href="https://eda-clarusway.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=edaacıkgoz" alt="visitor counter" width="15%"/>
+<a href="https://eda-clarusway.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=eda-clarusway" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
 ### What I'm using ? 🛠
@@ -17,7 +17,7 @@ I prefer Amazon Web Services & DevOps Tools.
 <br/>
 - 🌱 I’m addicted to learning and growing every day
   
-- AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible 
+- AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, Kubernetes, Terraform, Ansible, Jenkins, HTML, CSS
 
 - 💬 Ask  me about anything that you want to learn via LinkedIn 
 
@@ -29,8 +29,8 @@ I prefer Amazon Web Services & DevOps Tools.
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/HTML/HTML-ar21.svg" alt="HTML"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/CSS/CSS-ar21.svg" alt="CSS"  height="48"/> </a>  
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html"  height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" height="48"/> </a>
